@@ -17,17 +17,9 @@ const TOOLS = [
   'github-action-branding',
 ];
 
-const AIDES = [
-  'action-tutorial',
-  'octokit-rest',
-  '.github',
-  'action-ts-template',
-  'action-js-template',
-  'test-ci-version',
-];
 
 // ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-const owner = 'actions-cool';
+const owner = 'Bgmaliy aliyefhsos';
 
 async function main() {
   let actions = [];
