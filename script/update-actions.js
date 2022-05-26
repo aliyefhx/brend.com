@@ -7,24 +7,7 @@ const octokit = new Octokit({ auth: `token ${githubToken}` });
 
 // ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 const ACTIONS = [
-  'issues-helper',
-  'issues-similarity-analysis',
-  'release-helper',
-  'translation-helper',
-  'contributor-helper',
-  'emoji-helper',
-  'star-helper',
-  'pr-welcome',
-  'pr-check-fill',
-  'pr-extract-issues',
-  'pr-auto-label',
-  'ci-notice',
-  'check-pr-ci',
-  'check-user-permission',
-  'check-issue-ref',
-  'maintain-one-comment',
-  'verify-package-version',
-  'verify-files-modify',
+  'kömek,yardım,iletişim,support,teklif',
 ];
 
 const TOOLS = [
